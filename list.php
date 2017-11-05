@@ -17,3 +17,16 @@
     <li><a href="?page=structural-6-flyweight">Flyweight</a></li>
     <li><a href="?page=structural-7-proxy">Proxy</a></li>
 </ul>
+<h3>Behavioral</h3>
+<ul>
+    <li><a href="?page=behavioral-1-chain-of-responsibility">Chain of Responsibility</a></li>
+    <li><a href="?page=behavioral-2-command">Command</a></li>
+    <li><a href="?page=behavioral-3-iterator">Iterator</a></li>
+    <li><a href="?page=behavioral-4-mediator">Mediator</a></li>
+    <li><a href="?page=behavioral-5-momento">Memento</a></li>
+    <li><a href="?page=behavioral-6-observer">Observer</a></li>
+    <li><a href="?page=behavioral-7-visitor">Visitor</a></li>
+    <li><a href="?page=behavioral-8-strategy">Strategy</a></li>
+    <li><a href="?page=behavioral-9-state">State</a></li>
+    <li><a href="?page=behavioral-10-template-method">Template Method</a></li>
+</ul>
