@@ -23,7 +23,7 @@
     <li><a href="?page=behavioral-2-command">Command</a></li>
     <li><a href="?page=behavioral-3-iterator">Iterator</a></li>
     <li><a href="?page=behavioral-4-mediator">Mediator</a></li>
-    <li><a href="?page=behavioral-5-momento">Memento</a></li>
+    <li><a href="?page=behavioral-5-memento">Memento</a></li>
     <li><a href="?page=behavioral-6-observer">Observer</a></li>
     <li><a href="?page=behavioral-7-visitor">Visitor</a></li>
     <li><a href="?page=behavioral-8-strategy">Strategy</a></li>
