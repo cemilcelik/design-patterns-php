@@ -8,6 +8,7 @@
     <li><a href="?page=creational-6-singleton">Singleton</a></li>
     <li><a href="?page=creational-7-pool">Pool</a></li>
     <li><a href="?page=creational-8-multiton">Multiton</a></li>
+    <li><a href="?page=creational-9-static-factory">Static Factory</a></li>
 </ul>
 <h3>Structural</h3>
 <ul>
