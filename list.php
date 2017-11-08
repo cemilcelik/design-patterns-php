@@ -19,6 +19,7 @@
     <li><a href="?page=structural-5-facade">Facade</a></li>
     <li><a href="?page=structural-6-flyweight">Flyweight</a></li>
     <li><a href="?page=structural-7-proxy">Proxy</a></li>
+    <li><a href="?page=structural-8-data-mapper">Data Mapper</a></li>
 </ul>
 <h3>Behavioral</h3>
 <ul>
