@@ -39,5 +39,12 @@ class StringFormatter implements IFormatter
     }
 }
 
-StaticFactory::factory('integer');
-StaticFactory::factory('string');
+$integerFormatter = StaticFactory::factory('integer');
+echo 'Integer formatter is an istance of IntegerFormatter: ' . (($integerFormatter instanceof IntegerFormatter) ? 'True' : 'False');
+echo "<br>";
+
+echo "<br>";
+
+$stringFormatter = StaticFactory::factory('string');
+echo 'String formatter is an istance of StringFormatter: ' . (($stringFormatter instanceof StringFormatter) ? 'True' : 'False');
+echo "<br>";
