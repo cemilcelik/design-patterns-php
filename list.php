@@ -35,7 +35,7 @@
     <li><a href="?page=behavioral-9-state">State</a></li>
     <li><a href="?page=behavioral-10-template-method">Template Method</a></li>
 </ul>
-<h3>More</h3>
+<h3>Other</h3>
 <ul>
-    <li><a href="?page=more-1-repository">Repository</a></li>
+    <li><a href="?page=other-1-repository">Repository</a></li>
 </ul>
