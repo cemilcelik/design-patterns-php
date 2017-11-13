@@ -21,6 +21,7 @@
     <li><a href="?page=structural-7-proxy">Proxy</a></li>
     <li><a href="?page=structural-8-data-mapper">Data Mapper</a></li>
     <li><a href="?page=structural-9-dependency-injection">Dependency Injection</a></li>
+    <li><a href="?page=structural-10-fluent-interface">Fluent Interface</a></li>
 </ul>
 <h3>Behavioral</h3>
 <ul>
