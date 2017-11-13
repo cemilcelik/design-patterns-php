@@ -1,5 +1,5 @@
 <?php
-echo "<h1>Multiton</h1>";
+echo "<h1>Multiton<sub style='font-size: 10px;'>(anti-pattern)</sub></h1>";
 
 const INSTANCE_1 = 'debug_error';
 const INSTANCE_2 = 'show_message';
