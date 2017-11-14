@@ -37,6 +37,7 @@
     <li><a href="?page=behavioral-9-state">State</a></li>
     <li><a href="?page=behavioral-10-template-method">Template Method</a></li>
     <li><a href="?page=behavioral-11-null-object">Null Object</a></li>
+    <li><a href="?page=behavioral-12-specification">Specification</a></li>
 </ul>
 <h3>Other</h3>
 <ul>
