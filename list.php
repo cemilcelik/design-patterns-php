@@ -42,4 +42,5 @@
 <h3>Other</h3>
 <ul>
     <li><a href="?page=other-1-repository">Repository</a></li>
+    <li><a href="?page=other-2-delegation">Delegation</a></li>
 </ul>
