@@ -44,4 +44,5 @@
     <li><a href="?page=other-1-repository">Repository</a></li>
     <li><a href="?page=other-2-delegation">Delegation</a></li>
     <li><a href="?page=other-3-service-locator">Service Locator</a></li>
+    <li><a href="?page=other-4-entity-attribute-value-eav">Entity-Attribute-Value EAV</a></li>
 </ul>
